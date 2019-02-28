@@ -10,4 +10,4 @@ Welcome to my first serverless service.
 `$ sls deploy`
 
 ## Invoke
-`$ sls invoke -f <function> -l
+`$ sls invoke -f <function> -l`
